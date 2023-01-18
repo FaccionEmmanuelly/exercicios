@@ -1,4 +1,4 @@
-const  gabrielson = -4
+/*const  gabrielson = -4
 if (gabrielson > 100 || gabrielson < 0) {
     console.log('numero invalido')
 } else if (gabrielson >=90 ) {
@@ -13,7 +13,7 @@ if (gabrielson > 100 || gabrielson < 0) {
     console.log('e')
 } else {
     console.log('f')
-}
+}*/
 
 
 /* 
@@ -25,3 +25,12 @@ gabrielson >= 50 = E
 gabrielson < 50 = F
 gabrielson > 100 ou gabrielson < 0 = ERRO
 */
+const londres = 6
+const europa = 4
+const inglaterra = 92
+
+if (londres % 2 ===0 && europa % 2 ===0 && inglaterra % 2 ===0 ) {
+    console.log (true)
+} else {
+    console.log (false)
+}
